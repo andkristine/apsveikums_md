@@ -7,7 +7,7 @@
 }
 
 body {
-    background-image: url("/images/wp5224000-misty-morning-forest-wallpapers.jpg");  
+    background-image: url("./images/wp5224000-misty-morning-forest-wallpapers.jpg");  
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
